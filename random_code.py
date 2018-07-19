@@ -24,4 +24,5 @@ print( random.randrange(1,100,2) )   # 生成从1到100的间隔为2的随机整
 a=[1,3,5,6,7]                # 将序列a中的元素顺序打乱
 random.shuffle(a)
 print(a)
+print("!!!!")
 """
